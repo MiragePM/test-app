@@ -1,0 +1,6 @@
+Name = "test-app"
+Description = "Simple testing app"
+Authors = ["OxFF"]
+Dependencies = ["go"]
+AfterInstallScript = ""
+RunApplication = ["go run main.go"]
